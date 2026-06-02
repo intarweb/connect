@@ -22,3 +22,4 @@ Check out our [developer documentation](https://developer.1password.com/docs/con
 - File an [issue](https://github.com/1Password/connect/issues) for bugs and feature requests.
 - Join the [Developer Slack workspace](https://developer.1password.com/joinslack)
 - Subscribe to the [Developer Newsletter](https://1password.com/dev-subscribe/)
+
